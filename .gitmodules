@@ -5,3 +5,6 @@
 [submodule "ARHT"]
 	path = ARHT
 	url = https://github.com/haoranli/arht
+[submodule "ReguGLH"]
+	path = ReguGLH
+	url = https://github.com/haoranli/reguglh
