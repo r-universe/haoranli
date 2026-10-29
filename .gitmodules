@@ -8,3 +8,6 @@
 [submodule "ReguGLH"]
 	path = ReguGLH
 	url = https://github.com/haoranli/reguglh
+[submodule "RidgeLRGLH"]
+	path = RidgeLRGLH
+	url = https://github.com/haoranli/ridgelrglh
